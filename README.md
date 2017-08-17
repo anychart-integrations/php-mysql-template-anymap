@@ -65,7 +65,6 @@ php-mysql-template/
     index.php				# main PHP file including HTML template
     data.php				# PHP file which loads data from MySQL
     database_backup.sql     # MySQL database dump
-    database_backup.sql		# MySQL script to update database data
     LICENSE
     README.md
 ```
@@ -81,4 +80,4 @@ Database - [MySQL](https://www.mysql.com/)<br />
 * [Technical Support](https://anychart.com/support)
 
 ## License
-[© AnyChart.com - JavaScript charts](http://www.anychart.com). Released under the [Apache 2.0 License](https://github.com/anychart-integrations/php-mysql-template/blob/master/LICENSE).
+[© AnyChart.com - JavaScript charts](http://www.anychart.com). Released under the [Apache 2.0 License](https://github.com/anychart-integrations/php-mysql-template-anymap/blob/master/LICENSE).
