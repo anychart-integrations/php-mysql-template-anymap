@@ -64,6 +64,7 @@ php-mysql-template/
             style.css		# css style
     index.php				# main PHP file including HTML template
     data.php				# PHP file which loads data from MySQL
+    save-data.php			# PHP file to save data in MySQL
     database_backup.sql     # MySQL database dump
     LICENSE
     README.md
